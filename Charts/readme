@@ -1,0 +1,53 @@
+# Creating Charts in Power BI
+
+This repository contains a Power BI project that demonstrates how to create various types of charts using Power BI Desktop.
+
+## Prerequisites
+- **Power BI Desktop**: Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
+
+## Getting Started
+To replicate the charts in this project:
+
+1. **Clone or download** this repository to your local machine.
+
+2. **Open Power BI Desktop**:
+   - Launch Power BI Desktop.
+   - Open the `.pbix` file located in the repository.
+
+3. **Navigate to Reports**:
+   - Click on the "Reports" view in Power BI Desktop.
+
+## Charts Created
+
+### 1. Aggregated Sales vs. Forecast Chart
+- **Type**: Line Chart
+- **Purpose**: Compare aggregated seeding year sales and forecasted year sales.
+- **Steps**:
+  - Import seeding year sales and forecasted year sales data.
+  - Create a line chart.
+  - Aggregate data based on the selected year.
+
+### 2. Breakdown by State Chart
+- **Type**: Stacked Bar Chart or Map Chart
+- **Purpose**: Display seeding year sales and forecasted year sales breakdown by state.
+- **Steps**:
+  - Import state-wise sales data.
+  - Create a stacked bar chart or map chart.
+  - Color code or label each state to differentiate sales figures.
+
+## Additional Features
+- **Filtering**: Enable filtering by year or state for dynamic insights.
+- **Interactivity**: Ensure charts are interactive for enhanced user experience.
+
+## Usage
+- **Navigate**: Use filters or slicers to interact with the charts.
+- **Customize**: Modify visuals as needed using Power BI Desktop.
+
+## Contributing
+- Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+- This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgments
+- Mention any contributors or resources used for chart creation.
